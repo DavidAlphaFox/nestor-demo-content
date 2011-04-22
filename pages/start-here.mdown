@@ -1,4 +1,6 @@
 Date: 31 Dec 2010
+language: en
+Summary: A very short primer on how to get started with nesta.
 
 # Start here
 
@@ -22,3 +24,18 @@ To get started with the demo:
    switch between this demo and your own site by updating `config.yml`
    and reloading the page in your browser. There's no need to restart
    Nesta between edits.
+
+language: pt
+Summary: Um sumário muito curto sobre como começar a usar o nesta.
+
+# Comece Por Aqui
+
+Está a ler um pequeno artigo em Nesta, um CMS bastante
+simples. Criaram-se estas páginas para que possa aprender a utilizar o
+Nesta.  A tradução para português está muito incompleta, e isso em sí
+é um exemplo de utilização. 
+
+Dê uma olhadela ao [código][repo] e à [documentação][docs]!
+
+[repo]: http://github.com/gma/nesta-demo-content
+[docs]: http://effectif.com/nesta
