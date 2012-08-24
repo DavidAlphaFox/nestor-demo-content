@@ -1,0 +1,14 @@
+Emacs: -*- mode: lisp -*-
+Categories: marking-up-pages
+Summary: .who files are basically lisp and html.
+
+(:h1 "Using who"
+     (:p "Who is an alternative syntax for HTML that has gained a
+  large amount of traction in the Lisp community. Though not to
+  everybody's taste, Who is (primarily due to support for other
+  markup languages) an ideal language for writing rich pages in
+  Nesta.")
+     (:p "The Who web site explains the rationale behind Who as:")
+     (:blockquote "Who is based on one primary principle."
+                  (:em "Markup")
+                  "should be beautiful"))
